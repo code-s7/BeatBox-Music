@@ -34,12 +34,18 @@
     padding: 10px;
 }
 
+.beat{
+   
+     width: 200px;
+     
+}
 
 
-/* For Chrome, Edge, and Safari */
+
+ /* For Chrome, Edge, and Safari */
 ::-webkit-scrollbar {
   width: 8px;
-}
+} 
 
 ::-webkit-scrollbar-track {
   background: #1e1e1e; /* dark track */
